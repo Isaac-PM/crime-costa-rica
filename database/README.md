@@ -80,7 +80,7 @@
 
 ## Relational schema
 
-![Relational schema](relational.jpg)
+![Relational schema](/resources/relational.jpg)
 
 
 # Cleaned dataset
