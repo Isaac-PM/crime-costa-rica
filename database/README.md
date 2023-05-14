@@ -44,13 +44,13 @@
 
 ## Víctima (victim)
 
-| Attribute    | Type    | Description                                    |
-|--------------|---------|------------------------------------------------|
-| id_victima   | INTEGER | Primary key, unique identifier (autoincrement) |
-| tipo         | TEXT    | Type of victim                                 |
-| descripcion  | TEXT    | Description of the victim                      |
-| grupo_etario | TEXT    | Age group of the victim                        |
-| nacionalidad | TEXT    | Nationality of the victim                      |
+| Attribute    | Type    | Description                                                                      |
+|--------------|---------|----------------------------------------------------------------------------------|
+| id_victima   | INTEGER | Primary key, unique identifier (autoincrement)                                   |
+| tipo         | TEXT    | Type of victim                                                                   |
+| descripcion  | TEXT    | Description of the victim                                                        |
+| grupo_etario | TEXT    | Age group of the victim ('MEEE' < 18 years, 'MAEE' > 18 years, 'AAMM'> 60 years) |
+| nacionalidad | TEXT    | Nationality of the victim                                                        |
 
 ## Crimen-Víctima (crime-victim)
 
