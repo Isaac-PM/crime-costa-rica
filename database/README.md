@@ -1,5 +1,7 @@
 # About
 
+[See demo...](demo.ipynb)
+
 ## Database management system
 
 
@@ -86,3 +88,7 @@
 # Cleaned dataset
 
 Isaac PM. (2023). _Crime data in Costa Rica: years 2020 to 2022._ Retrieved from: https://www.kaggle.com/datasets/isaacpm21/crime-data-in-costa-rica-years-2020-to-2022
+
+# Demo
+
+[See demo...](demo.ipynb)
