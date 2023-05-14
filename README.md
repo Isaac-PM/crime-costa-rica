@@ -1,6 +1,6 @@
 # Analysis of crime data in Costa Rica: years 2020 to 2022
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/7/7b/Polic%C3%ADa_resguarda_Asamblea_Legislativa_de_Costa_Rica_1_de_mayo_2013.JPG" style="max-width: 640px">
+<img src="https://upload.wikimedia.org/wikipedia/commons/7/7b/Polic%C3%ADa_resguarda_Asamblea_Legislativa_de_Costa_Rica_1_de_mayo_2013.JPG" width="640px">
 
 # Abstract
 
@@ -8,7 +8,8 @@ This side project focuses on the collection, filtering, storage, and analysis of
 
 The main objectives of this analysis phase are as follows:
 
-- Provide a basic statistical representation through graphs.
+- Clean and filter the data, in order to store it in a database. <img src="https://img.shields.io/badge/-done-green">
+- Provide a basic statistical representation through graphs. <img src="https://img.shields.io/badge/-working%20on-yellow">
 - Visualize the data in various ways on the map of Costa Rica.
 - Use this data to train a Deep Learning model.
 
